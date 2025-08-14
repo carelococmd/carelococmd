@@ -7,9 +7,10 @@
 - 📚 I’m currently studying at unilasallista 😉
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
-# Tu Nombre Completo
-Desarrollador/a de software | Apasionado/a por crear soluciones limpias y escalables.  
-Especializado en backend y scripting con énfasis en calidad, buenas prácticas y tests.
+# Juan Jose Restrepo
+Future software developer | I love to create new things with 
+programation and also i like to improve my skills by watching 
+other people
 
 [![Email](https://img.shields.io/badge/-jrestrepo54@unilasallista.edu.co-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tu.email@ejemplo.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-jose-restrepo-7a0299316/)
