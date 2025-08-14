@@ -15,8 +15,8 @@ other people
 [![Email](https://img.shields.io/badge/-jrestrepo54@unilasallista.edu.co-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tu.email@ejemplo.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-jose-restrepo-7a0299316/)
 
-## Habilidades técnicas
-### Lenguajes
+## Technical Skills
+### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
