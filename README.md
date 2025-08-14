@@ -8,7 +8,7 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 # Juan Jose Restrepo
-Future software developer | I love to create new things with 
+Future QUANT and engineer | I love to create new things with 
 programation and also i like to improve my skills by watching 
 other people
 
