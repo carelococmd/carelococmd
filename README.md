@@ -1,1 +1,1 @@
-![m](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.pinterest.com%2Fyusepeh%2Fmemes-malos%2F&psig=AOvVaw2cke_vVy8V83ZbYrHzB0b9&ust=1755283913155000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJC_yaL8io8DFQAAAAAdAAAAABAo)
+![imagen](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.pinterest.com%2Fyusepeh%2Fmemes-malos%2F&psig=AOvVaw2cke_vVy8V83ZbYrHzB0b9&ust=1755283913155000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJC_yaL8io8DFQAAAAAdAAAAABAo)
