@@ -8,6 +8,10 @@
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 
+[![Email](https://img.shields.io/badge/-jrestrepo54@unilasallista.edu.co-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tu.email@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-jose-restrepo-7a0299316/)
+
+
 
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31gf7ziyf3n6ycsop73nrhvaenpa)
