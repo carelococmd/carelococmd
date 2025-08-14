@@ -21,8 +21,8 @@ other people
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
  ## Outstanding projects
-- **Project A** Its in proccess by the moment, *CLASSIFIED* 
-- 
+- **Project A** Its in proccess by the moment, *CLASSIFIED*
+  
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31gf7ziyf3n6ycsop73nrhvaenpa)
 
 ---
