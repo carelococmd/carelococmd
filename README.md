@@ -23,6 +23,3 @@ other people
  ## Outstanding projects
 - **Project A** Its in proccess by the moment, *CLASSIFIED*
   
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31gf7ziyf3n6ycsop73nrhvaenpa)
-
----
